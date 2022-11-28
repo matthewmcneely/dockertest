@@ -15,8 +15,8 @@ import (
 	"time"
 
 	"github.com/cenkalti/backoff/v4"
-	dc "github.com/ory/dockertest/v3/docker"
-	options "github.com/ory/dockertest/v3/docker/opts"
+	dc "github.com/matthewmcneely/dockertest/v3/docker"
+	options "github.com/matthewmcneely/dockertest/v3/docker/opts"
 	"github.com/pkg/errors"
 )
 

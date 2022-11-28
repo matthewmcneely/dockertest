@@ -1,14 +1,14 @@
 // Copyright © 2022 Ory Corp
 // SPDX-License-Identifier: Apache-2.0
 
-package system // import "github.com/ory/dockertest/v3/docker/pkg/system"
+package system // import "github.com/matthewmcneely/dockertest/v3/docker/pkg/system"
 
 import (
 	"os"
 	"syscall"
 	"time"
 
-	"github.com/ory/dockertest/v3/docker/pkg/mount"
+	"github.com/matthewmcneely/dockertest/v3/docker/pkg/mount"
 	"github.com/pkg/errors"
 )
 

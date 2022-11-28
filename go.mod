@@ -1,4 +1,4 @@
-module github.com/ory/dockertest/v3
+module github.com/matthewmcneely/dockertest/v3
 
 go 1.17
 

@@ -17,7 +17,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/ory/dockertest/v3/docker/pkg/archive"
+	"github.com/matthewmcneely/dockertest/v3/docker/pkg/archive"
 	"github.com/sirupsen/logrus"
 )
 
