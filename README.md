@@ -1,3 +1,5 @@
+<h3>This fork removes `docker_test.go` as it imports many (unwanted) dependencies<h3>
+
 <h1 align="center"><img src="./docs/images/banner_dockertest.png" alt="ORY Dockertest"></h1>
 
 [![Build Status](https://travis-ci.org/ory/dockertest.svg)](https://travis-ci.org/ory/dockertest?branch=master)
